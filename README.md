@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play CTF's
 - ⚡ I love Red Teaming
-- ⚡ I love kali linux 🤣
+- ⚡ I love kali linux
 
 ### Connect with me:
 
