@@ -40,9 +40,7 @@
 
 [instagram]: https://www.instagram.com/prabesh.bakhrel5/
 [facebook]: https://www.facebook.com/prabesh.bakhrel.9/
-
 <br />
-
 <div id="stats">
     <img alt="Prabesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=5Prabesh&line_height=20&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800&custom_title=Prabesh's%20Github%20Stats" height=180>
     <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Prabesh&theme=tokyonight&show_icons=true&hide=html,css,ocaml&langs_count=3&custom_title=Most%20Used%20Languages" height=180>
