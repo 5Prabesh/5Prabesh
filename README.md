@@ -1,6 +1,6 @@
 ### Hi there, I'm Prabesh 👋
 
-## I'm a programmer, and Infosec enthusiast!!
+## I'm a programmer, and CyberSec enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play CTF's
