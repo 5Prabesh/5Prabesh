@@ -3,9 +3,8 @@
 ## I'm a programmer, and CyberSec enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play CTF's
-- ⚡ I love Red Teaming
-- ⚡ I love kali linux
+- ⚡ Fun fact: I don't know to hack!
+- ⚡ I love playing ctf's
 
 [![@prabesh412's Holopin board](https://holopin.io/api/user/board?user=prabesh412)](https://holopin.io/@prabesh412)
 
