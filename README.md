@@ -2,7 +2,8 @@
 
 <!-- ## I'm a programmer, and CyberSec enthusiast!! -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Enthusiast;Web+Application+ Pentester;Active+Learner/Researcher..<3"></a>
+<!--   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&duration=3000&repeat=true&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Enthusiast;Web+Penetration+Tester;Active+Learner/Researcher😊"></a>
 </p>
 
 - 🌱 I’m currently learning everything 🤣
@@ -13,7 +14,7 @@
 [![@prabesh412's Holopin board](https://holopin.io/api/user/board?user=prabesh412)](https://holopin.io/@prabesh412)
 
 <div align="center">
-<h1>CTF profiles:</h1>
+<h1>CTF profile:</h1>
  <a href="https://tryhackme.com/p/Prabesh1"><img src="https://tryhackme-badges.s3.amazonaws.com/Prabesh1.png" alt="TryHackMe"></a>
 </div>
 
