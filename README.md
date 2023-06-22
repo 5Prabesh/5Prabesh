@@ -13,24 +13,24 @@
 [![@prabesh412's Holopin board](https://holopin.io/api/user/board?user=prabesh412)](https://holopin.io/@prabesh412)
 
 <div align="center">
-<h1>CTF profile:</h1>
+<h1><b>CTF profile:</b></h1>
  <a href="https://tryhackme.com/p/Prabesh1"><img src="https://tryhackme-badges.s3.amazonaws.com/Prabesh1.png" alt="TryHackMe"></a>
 </div>
 
 <br/>
 
-## Connect with me:
+## <b>Connect with me:</b>
 [<img align="left" alt="prabesh | LinkedIn" width="35px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] 
 [<img align="left" alt="prabesh | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 <br />
 <br />
 
-## ✍️ Random Dev Quote
+## <b>✍️ Random Dev Quote</b>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br>
 
-## Languages and Tools :
+## <b>Languages and Tools :</b>
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -66,8 +66,8 @@
 
 <br />
 
-## Profile Views
+## <b>Profile Views</b>
 ![](https://komarev.com/ghpvc/?username=5Prabesh)
 
-## 💰 You can buy me a coffee
+## 💰 <b>You can buy me a coffee</b>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pbakhrel54)
