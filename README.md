@@ -10,7 +10,9 @@
 - 🌱 I love playing ctf's
 - 📝 I write articles on [Medium](https://medium.com/@pbakhrel5)
 
-[![@prabesh412's Holopin board](https://holopin.io/api/user/board?user=prabesh412)](https://holopin.io/@prabesh412)
+<strong>Holopin badges</strong>
+
+[![@prabesh412's Holopin board](https://holopin.me/prabesh412)](https://holopin.io/@prabesh412)
 
 <div align="center">
 <h1><b>CTF profile:</b></h1>
