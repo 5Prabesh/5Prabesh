@@ -68,16 +68,18 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/5Prabesh/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=5Prabesh&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/5Prabesh/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=5Prabesh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <div align=center>
-    ![5Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=5Prabesh&show_icons=true&theme=radical)
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=5Prabesh&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=5Prabesh&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=5Prabesh&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=5Prabesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    
   </div>
   <br>
 <br />
