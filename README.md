@@ -66,16 +66,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
+<!-- <p align=center> -->
   <div align=center>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=5Prabesh&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=5Prabesh&theme=tokyonight&hide_border=false)
   </div>
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=5Prabesh&show_icons=true&locale=en&theme=tokyonight" alt="Prabesh"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5Prabesh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Prabesh"/>
 
- ![](https://github-readme-stats.vercel.app/api?username=5Prabesh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&card_width=22&PAR_1=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)
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=5Prabesh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=400&line_height=3000&PAR_1=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) 
 
-  <br>
 <br />
 
 ## <b>Profile Views</b>
