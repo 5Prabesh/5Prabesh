@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Prabesh </b></h1>
 <p align="center">
 <!--   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&duration=3000&repeat=true&size=25&center=true&vCenter=true&width=600&height=100&lines=DevOps;Automation;Active+Learner/Researcher😊"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&duration=3000&repeat=true&size=25&center=true&vCenter=true&width=600&height=100&lines=Mobile+APP+Developer;React Native;Active+Learner/Researcher😊"></a>
 </p>
 
 - 🌱 I’m currently learning everything 🤣
@@ -26,33 +26,20 @@
 
 ## <b>Languages and Tools :</b>
 
-<img align="left" alt="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="react" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" />
 
-<img align="left" alt="js" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="firebase" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png"/>
 
-<img align="left" alt="vim" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img align="left" alt="android" width="28px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" />
 
-<img align="left" alt="linux" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="redux" width="28px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />
 
-<img align="left" alt="bash" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="javascript" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 
-<img align="left" alt="git" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align='left' alt='git' width='28px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<img align="left" alt="Nginx" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+<img align="left" alt="figma" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-<img align="left" alt="docker" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-<img align="left" alt="aws" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-
-<img align="left" alt="terraform" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-
-<img align="left" alt="ansible" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
-
-<img align="left" alt="jenkins" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-
-<img align="left" alt="grafana" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-
-<img align="left" alt="kubernetes" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 
 [instagram]: https://www.instagram.com/prabesh.bakhrel5/
 
