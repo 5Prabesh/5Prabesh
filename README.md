@@ -1,8 +1,5 @@
 <h1 align="center"><b>Hi , I'm Prabesh </b></h1>
-<p align="center">
-<!--   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&duration=3000&repeat=true&size=25&center=true&vCenter=true&width=600&height=100&lines=Mobile+APP+Developer;React Native;Active+Learner/Researcher😊"></a>
-</p>
+
 
 - 🌱 I’m currently learning everything 🤣
 - 📝 I write articles on [Medium](https://medium.com/@pbakhrel5)
@@ -40,6 +37,10 @@
 
 <img align="left" alt="figma" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
+<img align="left" alt="npm" width="28px" src="" />
+
+
+
 
 [instagram]: https://www.instagram.com/prabesh.bakhrel5/
 
@@ -62,8 +63,6 @@
 
 <br />
 
-## <b>Profile Views</b>
-![](https://komarev.com/ghpvc/?username=5Prabesh)
 
 ## 💰 <b>You can buy me a coffee</b>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pbakhrel54)
