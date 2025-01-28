@@ -11,8 +11,18 @@
 
 
 ## <b>Connect with me:</b>
-[<img align="left" alt="prabesh | LinkedIn" width="35px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] 
-[<img align="left" alt="prabesh | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+<a href="https://www.linkedin.com/in/prabesh-bakhrel/">
+  <img width="65" height="65" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+</a>
+<a href="https://www.facebook.com/prabesh.bakhrel.9">
+  <img width="65" height="65" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/>
+</a>
+<a href="https://www.instagram.com/prabesh.3/">
+  <img width="65" height="65" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+</a>
+
+
+
 
 <br />
 <br />
@@ -23,25 +33,9 @@
 
 ## <b>Languages and Tools :</b>
 
-<img align="left" alt="react" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" />
-
-<img align="left" alt="firebase" width="28px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png"/>
-
-<img align="left" alt="android" width="28px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" />
-
-<img align="left" alt="redux" width="28px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />
-
-<img align="left" alt="javascript" width="28px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-
-<img align='left' alt='git' width='28px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img align="left" alt="figma" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,firebase,git,figma,tailwind,vite,npm,notion,git)
 
 
-
-
-
-[instagram]: https://www.instagram.com/prabesh.bakhrel5/
 
 [facebook]: https://www.facebook.com/prabesh.bakhrel.9/
 <br />
