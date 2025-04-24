@@ -1,10 +1,23 @@
-<h1 align="center"><b>Hi , I'm Prabesh </b></h1>
+# 👋 Hi there, I'm Prabesh Bakhrel!
+
+I'm a passionate **Frontend Developer** who loves building beautiful and performant apps — both web and mobile. I enjoy working with modern technologies and turning ideas into clean, functional code.
+
+## 🛠️ Tech Stack
+- ⚛️ React.js & React Native  
+- 🎨 Tailwind CSS  
+- 🚀 Vercel | Heroku  
+- 🗂️ Git & GitHub
+
+## 💡 What I Do
+- Build responsive and interactive UIs using React  
+- Create cross-platform mobile apps with React Native  
+- Style components effortlessly using Tailwind CSS  
+- Deploy web apps seamlessly via Vercel and Heroku  
+- Collaborate and manage code using Git & GitHub
 
 
-- 🌱 I’m currently learning everything 🤣
-- 📝 I write articles on [Medium](https://medium.com/@pbakhrel5)
 
-<strong>Holopin badges</strong>
+## Holopin badges
 
 [![@prabesh412's Holopin board](https://holopin.me/prabesh412)](https://holopin.io/@prabesh412)
 
