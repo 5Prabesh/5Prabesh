@@ -46,7 +46,7 @@ I'm a passionate **Frontend Developer** who loves building beautiful and perform
 
 ## <b>Languages and Tools :</b>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,firebase,git,figma,tailwind,vite,npm,notion,git,nextjs)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,firebase,git,figma,tailwind,vite,npm,notion,nextjs,nodejs,expressjs,postman,mongodb,vercel)
 
 
 
